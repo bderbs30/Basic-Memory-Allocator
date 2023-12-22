@@ -1,5 +1,9 @@
 Basic Memory Allocator
 
+Implemented Functions
+- Calloc
+- Malloc
+
 
 The [Makefile](Makefile) contains the following targets:
 

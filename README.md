@@ -1,6 +1,5 @@
-# Assignment 5: Basic Memory Allocator
+Basic Memory Allocator
 
-This is the starter code for [Assignment 5](https://khoury-cs3650.github.io/a05.html).
 
 The [Makefile](Makefile) contains the following targets:
 
